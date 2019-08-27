@@ -1,0 +1,29 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    font-family: monospace;
+    font-size: 250%; 
+}
+.important{
+    font-size: 200%;
+}
+
+.header {
+background-color: #002060;
+padding: 5px;
+text-align: center;
+font-size: 15px;
+color: white;
+}
+
+.review{ 
+background-color: black;
+padding:10px;
+text-align: left;
+}
+
+.pictures{
+    background-color: bisque; 
+    padding: 10px; 
+}
